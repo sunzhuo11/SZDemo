@@ -9,5 +9,6 @@
 #ifndef SZGitDemo_SZGitDemo_pch
 #define SZGitDemo_SZGitDemo_pch
 
+#import "Masonry.h"
 
 #endif
